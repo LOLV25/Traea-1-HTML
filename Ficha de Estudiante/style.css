@@ -1,0 +1,43 @@
+.ficha{
+    border: 8px double rgb(3, 74, 110);
+    border-width: 8px;
+    border-style: double;
+    border-color: rgb(3, 74, 110);
+    border-radius: 10px;
+    font-weight:lighter;
+    text-align: center;
+    background-color: rgb(189, 162, 127);
+}
+
+h2.carrera{
+    border: 5px groove gray;
+      padding: 10px;
+      font-weight:lighter;
+      font-size: 24px;
+      text-align: center;
+      background-color: #4e545e;
+}
+
+.articial{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+body{
+    background-color: rgb(216, 135, 81);
+}
+
+
+/*body{
+    background-image: url("captura/images.jpeg"); 
+      background-size: cover;         
+      background-repeat: no-repeat;   
+      background-position: center;    
+      height: 100vh;                  
+      margin: 0;                      
+      color: white;                   
+      font-family: Arial, sans-serif;
+}
+
+
